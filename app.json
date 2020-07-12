@@ -1,0 +1,14 @@
+{
+    "name": "randpic",
+    "description": "Deploy randpic to heroku",
+    "env": {
+        "PIC_URL": {
+            "description": "图片链接URL(带http://)",
+            "value": "pic.txt"
+        }
+    },
+    "website": "https://github.com/peng4740/randpic",
+    "repository": "https://github.com/peng4740/randpic",
+    "success_url": "/",
+    "stack": "container"
+  }
