@@ -1,8 +1,8 @@
 {
     "name": "p",
     "description": "Deploy p to heroku",
-    "website": "/",
-    "repository": "/",
+    "website": "https://github.com/peng4740/test2.git",
+    "repository": "https://github.com/peng4740/test2.git",
     "success_url": "/",
     "stack": "container"
   }
